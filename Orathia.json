@@ -15,18 +15,12 @@
                 "json": "TotSS",
 				"abbreviation": "TotSS",
 				"full": "Tales of the Starless Sea",
-				"authors": [
-					"Nate Webster / OrcasOfGanymede"
-				],
 				"color": "#018393"
             },
 			{
 				"json": "WTSP",
 				"abbreviation": "WTSP",
 				"full": "Within Those Shattered Plains",
-				"authors": [
-					"Nate Webster / OrcasOfGanymede"
-				],
 				"color": "#86feff"
 			}
 		]
