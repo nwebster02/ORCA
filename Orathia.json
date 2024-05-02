@@ -8,7 +8,7 @@
 				"authors": [
 					"Nate Webster / OrcasOfGanymede"
 				],
-				"source": "https://github.com/nwebster02/ORCA",
+				"url": "https://github.com/nwebster02/ORCA",
 				"color": "#2e62fe"
             },
             {
@@ -18,7 +18,6 @@
 				"authors": [
 					"Nate Webster / OrcasOfGanymede"
 				],
-				"source": "https://github.com/nwebster02/ORCA",
 				"color": "#018393"
             },
 			{
@@ -28,7 +27,6 @@
 				"authors": [
 					"Nate Webster / OrcasOfGanymede"
 				],
-				"source": "https://github.com/nwebster02/ORCA",
 				"color": "#86feff"
 			}
 		]
