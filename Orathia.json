@@ -5,10 +5,10 @@
                 "json": "ORCA",
 				"abbreviation": "ORCA",
 				"full": "Orathian Resource & Campaign Archive",
+				"url": "https://github.com/nwebster02/ORCA",
 				"authors": [
 					"Nate Webster / OrcasOfGanymede"
 				],
-				"url": "https://github.com/nwebster02/ORCA",
 				"color": "#2e62fe"
             },
             {
