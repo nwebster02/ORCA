@@ -183,7 +183,7 @@
 					"type": "entries",
 					"name": "Dwarven Resilience",
 					"entries": [
-						"You have advantage on saving throws against being {@condition poisoned}, and you have resistance against poison damage."
+						"You have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage."
 					]
 				},
 				{
@@ -264,7 +264,7 @@
 								"overwrite": "Dwarven Resilience"
 							},
 							"entries": [
-								"You have advantage on saving throws against being {@condition poisoned}, and you have resistance against poison damage. You also have advantage on saving throws against being {@condition charmed}, {@condition stunned}."
+								"You have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage. You also have advantage on saving throws against being {@condition charmed}, {@condition stunned}."
 							]
 						},
 						{
@@ -593,7 +593,7 @@
 					"type": "entries",
 					"name": "Powerful Build",
 					"entries": [
-						"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+						"You have advantage on Strength ({@skill Athletics}) checks to lift, carry, push, pull, or manipulate objects."
 					]
 				},
 				{
@@ -780,7 +780,7 @@
 							"type": "entries",
 							"name": "Elemental Legacy",
 							"entries": [
-								"You have advantage on saving throws against being {@condition poisoned}, and you have resistance against poison damage. You also know the {@spell mold earth|XGE} cantrip and can cast the {@spell earth tremor|XGE} spell once. You must finish a long rest or spend a spell slot of the appropriate level to cast this spell again. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells."
+								"You have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage. You also know the {@spell mold earth|XGE} cantrip and can cast the {@spell earth tremor|XGE} spell once. You must finish a long rest or spend a spell slot of the appropriate level to cast this spell again. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells."
 							]
 						}
 					],
@@ -1149,7 +1149,7 @@
 							"type": "entries",
 							"name": "Powerful Build",
 							"entries": [
-								"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+								"You have advantage on Strength ({@skill Athletics}) checks to lift, carry, push, pull, or manipulate objects."
 							]
 						},
 						{
@@ -1225,7 +1225,7 @@
 					"type": "entries",
 					"name": "Powerful Build",
 					"entries": [
-						"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+						"You have advantage on Strength ({@skill Athletics}) checks to lift, carry, push, pull, or manipulate objects."
 					]
 				},
 				{
@@ -1623,7 +1623,7 @@
 					"type": "entries",
 					"name": "Powerful Build",
 					"entries": [
-						"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+						"You have advantage on Strength ({@skill Athletics}) checks to lift, carry, push, pull, or manipulate objects."
 					]
 				},
 				{
@@ -1808,7 +1808,7 @@
 							"type": "entries",
 							"name": "Abyssal Legacy",
 							"entries": [
-								"You have advantage on saving throws against being {@condition poisoned}, and you have resistance against poison damage. You also know the {@spell poison spray} cantrip and can cast the {@spell ray of sickness} spell once. Starting at 5th level, you gain the ability to cast the {@spell alter self} spell once. You must finish a long rest or spend a spell slot of the appropriate level to cast these spells again. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells."
+								"You have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage. You also know the {@spell poison spray} cantrip and can cast the {@spell ray of sickness} spell once. Starting at 5th level, you gain the ability to cast the {@spell alter self} spell once. You must finish a long rest or spend a spell slot of the appropriate level to cast these spells again. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells."
 							]
 						}
 					],
@@ -2197,7 +2197,7 @@
 				{
 					"name": "Snow Camouflage",
 					"entries": [
-						"The meatbag has advantage on Dexterity ({@skill Stealth}) checks made to hide in snowy terrain."
+						"The wolf has advantage on Dexterity ({@skill Stealth}) checks made to hide in snowy terrain."
 					]
 				}
 			],
